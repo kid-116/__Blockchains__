@@ -1,3 +1,6 @@
 .vscode
-logs/
+
+training/
+
 .ipynd_checkpoints/
+
